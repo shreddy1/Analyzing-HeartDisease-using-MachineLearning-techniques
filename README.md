@@ -5,11 +5,17 @@ A mini project on analyzing whether the patient has heart disease or not.
 I have used the Heart Disease dataset from UCI. The dataset contains 76 attributes, but all published experiments refer to using a subset of 14 of them. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
 age
+
 sex
+
 chest pain type (4 values)
+
 resting blood pressure
+
 serum cholestoral in mg/dl
+
 fasting blood sugar > 120 mg/dl
+
 resting electrocardiographic results (values 0,1,2)
 maximum heart rate achieved
 exercise induced angina
