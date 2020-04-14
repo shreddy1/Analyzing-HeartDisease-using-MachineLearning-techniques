@@ -10,10 +10,15 @@ The dataset used for this project is the Heart Disease dataset taken from UCI. T
 
 2.sex: displays the gender of the patient. 
 
-  1 = male,
-  0 = female
+   - 1 = male
+   
+   - 0 = female
 
 3.chest pain type (4 values): displays the type of chest-pain experienced by the patient
+				- 1 = typical angina
+    - 2 = atypical angina
+				- 3 = non — anginal pain
+				- 4 = asymptotic
 
 4.resting blood pressure
 
