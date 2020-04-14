@@ -2,15 +2,18 @@
 A mini project on analyzing whether the patient has heart disease or not.
  K –Nearest Neighbour (KNN) , Decision Tree (DT), Naive Bayes (NB), Support Vector Machine(SVM), Logistic Regression, Random Forest has been used to evaluate the accuracy.
 
-I have used the Heart Disease dataset from UCI. The dataset contains 76 attributes, but all published experiments refer to using a subset of 14 of them. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
+The dataset used for this project is the Heart Disease dataset taken from UCI. The dataset contains 76 attributes, but for the project purpose I have only used 14 columns. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
-  # Attribute Information:
+### Attribute Information:
 
-1.age
+1.age: displays the age of the individual.
 
-2.sex
+2.sex: displays the gender of the patient. 
 
-3.chest pain type (4 values)
+  1 = male,
+  0 = female
+
+3.chest pain type (4 values): displays the type of chest-pain experienced by the patient
 
 4.resting blood pressure
 
