@@ -4,7 +4,7 @@ A mini project on analyzing whether the patient has heart disease or not.
 
 I have used the Heart Disease dataset from UCI. The dataset contains 76 attributes, but all published experiments refer to using a subset of 14 of them. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
-# Attribute Information:
+  # Attribute Information:
 
 1.age
 
