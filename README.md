@@ -1,7 +1,7 @@
 # Analyzing Heart Disease using Machine Learning techniques
-A mini project on analyzing whether the patient has heart disease or not.
- K –Nearest Neighbour (KNN) , Decision Tree (DT), Naive Bayes (NB), Support Vector Machine(SVM), Logistic Regression, Random Forest has been used to evaluate the accuracy.
+A mini project on analyzing whether the patient has heart disease or not. The code is implemented in python and different classification models has been used: K –Nearest Neighbour (K-NN) , Decision Tree (DT), Naive Bayes (NB), Support Vector Machine(SVM), Logistic Regression, Random Forest to evaluate the accuracy. Data analysis, visualization and pre-processing techniques have been applied.
 
+### Dataset:
 The dataset used for this project is the Heart Disease dataset taken from UCI. The dataset contains 76 attributes, but for the project purpose I have only used 14 columns. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
 ### Attribute Information:
@@ -62,3 +62,5 @@ The dataset used for this project is the Heart Disease dataset taken from UCI. T
 
 		-0 = absence
 		-1, 2, 3, 4 = present.
+## Conclusion
+I have achieved the highest accuracy for the test set for Naive Bayes and Logistic Regression thats equal to 85.25%.
